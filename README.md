@@ -5,7 +5,7 @@
   <br/>
 
   <h3><b> Hello-react-rails</b></h3>
-
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
